@@ -1,0 +1,1 @@
+g++ grid_search.cpp -o grid_search.exe -fpermissive -w -Ofast -static-libgcc -static-libstdc++ && grid_search.exe
